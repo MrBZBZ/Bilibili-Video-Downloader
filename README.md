@@ -6,7 +6,8 @@
 * 💪配置保存：可以保存Cookie，不用每次打开软件都输一遍
 # 如何使用？🤔
 * 下载release中的exe，启动
-* 看到GUI正常出现即为成功启动程序![GUI](GUI.jpg "GUI图片")
+* 看到GUI正常出现即为成功启动程序
+* ![GUI](GUI.jpg "GUI图片")
 * 保存配置时会生成cookie_config.txt这个是您保存的Cookie文件，请妥善保管(注意：明文存储！)
 # 什么是Cookie？我要怎么使用？🤔：
 ### Cookie是您登录B站后获得的身份令牌，在发送网络请求时携带Cookie可以证明您的身份(本软件不会非法利用您的任何Cookie)
